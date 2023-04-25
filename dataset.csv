@@ -1,0 +1,36 @@
+Timestamp,What are the 4 OOP principles? Write a line about each.[5 marks],
+MODEL Answer,"Encapsulation: encapsulation is combining data and behaviour in one package and hiding the implementation details from the users of the object.
+Abstraction: abstraction refers to focusing on relevant portion of the system in consideration while leaving out the unnecessary details.
+Polymorphism: polymorphism refers to the ability of one object or reference variable to refer to multiple actual types.
+Inheritance: inheritance in OOP applies to 'is-a' type relations that allow child or subclasses to reuse methods and fields of their parent classes.",
+11-11-2022 14:57,"Inheritance The OOP feature in which subclasses inherit or reuse methods and/or variables from parent classes. 
+Abstraction The process of hiding or abstracting away internal details of the system. 
+Encapsulation The process of wrapping or hiding private data fields of a class to hide from the clients.
+Polymorphism The process in which 1 type can have several forms or subtypes or a function can have several variants.  ",4
+12-11-2022 00:14,"The four principles of object oriented-programming are Encapsulation, Abstraction, Inheritance, and Polymorphism. Encapsulation is achieved by using private attributes inside a class. Other objects cannot access it directly, instead, they can only invoke public functions. Abstraction is the process of showing only the relevant details to the object (loosely, user). For example, riding a car does not need the internal implementation of the electronics or mechanical parts, the user just uses the ABC and steering. Inheritance is the ability of one object to acquire the properties of another object (child inherits the traits of its parents). Reusability is the major advantage of inheritance. Polymorphism literally means taking multiple forms. In the domain of OOP, polymorphism can be achieved by functions with different parameters (i.e. functiom signature) or by overriding a function. These are the four pillars of OOP.",3
+12-11-2022 14:39,"Encapsulation: Basically grouping different related data and methods under a single unit. It enables data hiding and abstraction. Data hiding is basically restricted access to the state in order to achieve strict enforcement of business rules.
+
+Abstraction: It is basically providing a high level view and hiding the low level implementation. It enables separation of concern and modularity.
+
+Inheritance: It is a feature that enables taking and combining features of existing classes to make new classes.
+
+Polymorphism: It is a feature of oops that allows users to have different forms of a thing. Like a method with same name having different functionality. according to different parameters. Or like a child class being able to hold a reference of its parent class. We generally have 2 types of polymorphism:
+- Static Binding(Compile Time)
+- Dynamic Binding(Run Time)",3
+15-11-2022 00:08,"Abstraction which simply means hiding the unnecessary details from the user and giving access to only the necessary details. Example : for a person starting the car, it is not important for him how the car starts and all he wants is to push that start button and car should start.
+Encapsulation helps in maintaining data security and prevents access of data member of a class to the person by using different keywords such as private, public and protected.
+Inheritance involves using the parent class code in the child class to avoid repetition of implementation of same functionality again and again and works on the principle of DRY.
+Polymorphism implies taking different forms and involves method overriding and method overloading to allow different functionalities for parent and child class.",3
+15-11-2022 15:11,Abstraction encapsulation Polymorphism Inheritance,0
+15-11-2022 15:12, Encapsulation. Inheritance. Abstraction. and Polymorphism.,0
+15-11-2022 15:31,Abstraction refers to the hiding of internal data and functioning while only showing the user the basic details needed for operation. Polymorphism comes from poly - many and morphism - forms. It is essentially the principle that shows how one function can be carried out in multiple different forms (like overloading) Inheritance refers to the existence of a hierarchy where sub classes can inherit behaviours and characteristics of their super class. Encapsulation refers to the wrapping of data and methods into one unit. ,3
+15-11-2022 15:35,"The 4 OOP principles are
+Abstraction Through this process, certain parts of the data can be hidden from the user and only key data points are displayed.
+Encapsulation Through this, access to the data can be restricted to certain parts of the program only. 
+Inheritance The process by which different classes and interfaces within a program can be connected to each other.
+Polymorphism It is the process by which various classes within the program are related by inheritance.
+",2
+15-11-2022 15:54,"Abstraction: The concept of hiding details while keeping functionality. Definition doesn't need to be exact and just a meaning can be used to create functionality.
+Polymorphism: Means many forms, means that an object's method can have different meaning in different scenarios.
+Inheritance: The child class can inherit all the property of the base class and also have it's specialty. Allows you to create branches without repeating the code.
+Encapsulation: The concept of wrapping details with a class or Wrapper, used to implement abstraction.",3
